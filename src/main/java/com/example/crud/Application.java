@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  *
  * Spring Boot application starter class
- * Teste2 222 master
+ * Teste2 222 master muda pra main
  */ 
 @SpringBootApplication
 public class Application {
